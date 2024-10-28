@@ -821,6 +821,7 @@ characters = {
 		name = "José Augusto Lobato Guerra"
 		portraits = {
 			army = {
+				large = "GFX_Portrait_Europe_Generic_land_new_4"
 				small = "GFX_idea_generic_army_europe_4"
 			}
 		}
