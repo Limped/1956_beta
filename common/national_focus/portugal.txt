@@ -69,8 +69,6 @@ focus_tree = {
 		search_filters = {FOCUS_FILTER_MANPOWER}
 		completion_reward = {
 			add_ideas = POR_colonial_army
-			custom_effect_tooltip = available_political_advisor
-			show_ideas_tooltip = POR_francisco_craveiro_lopes
 		}
 	}
 
