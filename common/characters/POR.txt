@@ -1785,7 +1785,7 @@ characters = {
 	}
 	
 	POR_francisco_bernardo_do_canto = {
-		corp_commander = {
+		corps_commander = {
 			traits = { infantry_officer }
 			skill = 2
 			attack_skill = 1
@@ -1793,7 +1793,7 @@ characters = {
 			planning_skill = 2
 			logistics_skill = 1
 			legacy_id = -1
-		}
+		}		
 		name = "Francisco Bernardo do Canto"
 		portraits = {
 			army = {
