@@ -198,7 +198,6 @@ recruit_character = POR_antonio_de_macedo_ramalho_ortigao		#commander
 recruit_character = POR_tasso_de_miranda_cabral					#army chief
 recruit_character = POR_afonso_julio_de_cerqueira				#high command
 recruit_character = POR_jose_pedro_pinheiro_correia				#high command
-recruit_character = POR_francisco_bernardo_do_canto 			#commander
 
 set_politics = {
 	ruling_party = neutrality
