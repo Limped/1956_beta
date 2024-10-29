@@ -1785,7 +1785,7 @@ characters = {
 	}
 	
 	POR_francisco_bernardo_do_canto = {
-		corps_commander = {
+		corp_commander = {
 			traits = { infantry_officer }
 			skill = 2
 			attack_skill = 1
